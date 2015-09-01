@@ -1,6 +1,6 @@
 
 body {
-    background-color: rgb(200,200,200);
+    background-color: rgb(92, 143, 200);
     color: rgb(0,0,0);
     font-family: "Open Sans", sans-serif;
     text-align: center;
@@ -13,7 +13,7 @@ body {
 }
 
 title {
-    color: yellow;
+    color: #FFFF32;
 }
 
 header {
